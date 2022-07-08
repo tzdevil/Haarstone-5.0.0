@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Holy Hammer
+  m_EditorClassIdentifier: 
+  cardName: Holy Hammer
+  cardType: 3
+  cardClass: 5
+  HasBugs: 0
+  NotReleased: 1
+  cardSprite: {fileID: 21300000, guid: 9babe8f371b76614690d2cb319d5f2be, type: 3}
+  legendary: 0
+  isToken: 0
+  canTarget: 0
+  cardTarget: 0
+  quest: 0
+  hasCardDrawnThisTurnEffect: 0
+  mana: 3
+  spellEffect: 
+  castsWhenDrawn: 0
+  classColor: {r: 0, g: 0, b: 0, a: 0}
+  attack: 0
+  hp: 0
+  minionAbilites: []
+  heroPower: {fileID: 0}
+  portrait: {fileID: 0}
+  armorGiven: 0
+  weaponAttack: 4
+  weaponDurability: 1
+  weaponAbilities: []
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens: []
+  DesignerNotes: This is both a super strong card where you get a 4/1 and 1/4 weapons
+    both for 3 mana; but also weak due to how weak 1/4 is.

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Battle-crybaby
+  m_EditorClassIdentifier: 
+  cardName: Battle-crybaby
+  cardType: 0
+  cardSprite: {fileID: 21300000, guid: 3dc5fdc03a181a24c973ea899fe9e286, type: 3}
+  legendary: 1
+  canTarget: 0
+  cardTarget: 0
+  mana: 3
+  spellEffect: 
+  castsWhenDrawn: 0
+  attack: 1
+  hp: 3
+  minionAbilites:
+  - minionAbility: 0
+    minionEffect: Battlecrybaby
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens: []

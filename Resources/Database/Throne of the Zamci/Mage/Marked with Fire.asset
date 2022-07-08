@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Marked with Fire
+  m_EditorClassIdentifier: 
+  cardName: Marked with Fire
+  cardType: 1
+  cardClass: 4
+  HasBugs: 0
+  NotReleased: 1
+  cardSprite: {fileID: 21300000, guid: d8bcbc10b8c14924fa764bf8016babb5, type: 3}
+  legendary: 0
+  isToken: 0
+  canTarget: 0
+  cardTarget: 0
+  quest: 0
+  hasCardDrawnThisTurnEffect: 0
+  mana: 5
+  spellEffect: 
+  castsWhenDrawn: 0
+  classColor: {r: 0, g: 0, b: 0, a: 0}
+  attack: 0
+  hp: 0
+  minionAbilites:
+  - minionAbility: 13
+    minionEffect: 
+  heroPower: {fileID: 0}
+  portrait: {fileID: 0}
+  armorGiven: 0
+  weaponAttack: 0
+  weaponDurability: 0
+  weaponAbilities: []
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens: []
+  DesignerNotes: 

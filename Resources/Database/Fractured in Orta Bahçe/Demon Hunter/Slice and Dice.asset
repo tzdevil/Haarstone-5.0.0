@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Slice and Dice
+  m_EditorClassIdentifier: 
+  cardName: Slice and Dice
+  cardType: 1
+  cardClass: 1
+  HasBugs: 0
+  NotReleased: 0
+  cardSprite: {fileID: 21300000, guid: 1fed99b3a90a99c458557b999e06f185, type: 3}
+  legendary: 0
+  isToken: 0
+  canTarget: 1
+  cardTarget: 8
+  quest: 0
+  hasCardDrawnThisTurnEffect: 1
+  mana: 3
+  spellEffect: SliceAndDice
+  castsWhenDrawn: 0
+  classColor: {r: 0, g: 0, b: 0, a: 0}
+  attack: 2
+  hp: 3
+  minionAbilites:
+  - minionAbility: 2
+    minionEffect: Aranna
+  - minionAbility: 7
+    minionEffect: 
+  heroPower: {fileID: 0}
+  portrait: {fileID: 0}
+  armorGiven: 0
+  weaponAttack: 0
+  weaponDurability: 0
+  weaponAbilities: []
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens: []

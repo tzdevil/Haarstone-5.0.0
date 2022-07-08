@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Blob
+  m_EditorClassIdentifier: 
+  cardName: Blob
+  cardType: 0
+  cardSprite: {fileID: 21300000, guid: ad4e215d7ff3c8c4e85faaf981929b2c, type: 3}
+  legendary: 0
+  isToken: 1
+  canTarget: 0
+  cardTarget: 0
+  quest: 0
+  hasCardDrawnThisTurnEffect: 0
+  mana: 5
+  spellEffect: 
+  castsWhenDrawn: 0
+  attack: 5
+  hp: 5
+  minionAbilites: []
+  heroPower: {fileID: 0}
+  portrait: {fileID: 0}
+  armorGiven: 0
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens: []

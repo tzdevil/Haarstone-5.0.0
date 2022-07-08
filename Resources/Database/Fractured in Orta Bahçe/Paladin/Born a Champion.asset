@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Born a Champion
+  m_EditorClassIdentifier: 
+  cardName: Born a Champion
+  cardType: 1
+  cardClass: 5
+  cardSprite: {fileID: 21300000, guid: 92acfd218340b9d43ab6a26412a04ab0, type: 3}
+  legendary: 1
+  isToken: 0
+  canTarget: 0
+  cardTarget: 0
+  quest: 1
+  hasCardDrawnThisTurnEffect: 0
+  mana: 1
+  spellEffect: BornAChampion
+  castsWhenDrawn: 0
+  attack: 0
+  hp: 0
+  minionAbilites: []
+  heroPower: {fileID: 0}
+  portrait: {fileID: 0}
+  armorGiven: 0
+  classColor: {r: 0.8745098, g: 0.8980392, b: 0.31764707, a: 1}
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens:
+  - {fileID: 11400000, guid: 7ac06218453b99a45bc96c88bd19a6b9, type: 2}

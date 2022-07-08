@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Cairne Bloodhoof
+  m_EditorClassIdentifier: 
+  cardName: 'Cairne Bloodhoof '
+  cardType: 0
+  cardSprite: {fileID: 21300000, guid: 94a1aee49284ddc4b97fc9585e983de3, type: 3}
+  legendary: 1
+  canTarget: 0
+  cardTarget: 0
+  mana: 6
+  spellEffect: 
+  castsWhenDrawn: 0
+  attack: 5
+  hp: 5
+  minionAbilites:
+  - minionAbility: 1
+    minionEffect: CairneBloodhoof
+  tradeable: 0
+  corruptable: 0
+  corruptedVersion: {fileID: 0}
+  tokens:
+  - {fileID: 11400000, guid: 66528ae976efa7347ad5f9a2d34c1fea, type: 2}
